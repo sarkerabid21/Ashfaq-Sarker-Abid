@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/modern-banner.gif" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/MkYGkby4/5350789.jpg" alt="Banner" width="100%">
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
