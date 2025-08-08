@@ -1,12 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/MkYGkby4/5350789.jpg" alt="Banner" width="100%">
+  <img  src="https://i.postimg.cc/vT5Z52qZ/5350789.jpg" alt="Banner" width="100%">
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
-  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
-</picture>
+
+
 
 <!-- Name & Title -->
 <h1 align="center">
@@ -17,6 +14,13 @@
 ---
 
 ## 💫 About Me  
+<p  >
+  <picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img align="right" width="400" alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
+</p>
 Hi! I’m **Ashfaq Sarker Abid**, a passionate Frontend Developer from Bangladesh.  
 I love building modern, responsive, and user-friendly web applications.  
 Always curious about new technologies and improving my development skills.  
