@@ -1,5 +1,7 @@
 <!-- Banner -->
- <img alt="banner" src="https://ibb.co.com/hxQ89zZz" style="width:100%; display:block; object-fit:cover;"/>
+<p align="center">
+  <img src="https://i.ibb.co/7JfqXxB/modern-banner.gif" alt="Banner" width="100%">
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
