@@ -1,78 +1,23 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/modern-banner.gif" alt="Banner" width="100%">
-</p>
+<h1 align="center">Hi 👋, I'm Ashfaq Sarker Abid</h1>
+<h3 align="center">I am a Junior Frontend Developer</h3>
 
-<!-- Name & Title -->
-<h1 align="center">
-  <span style="color:#00F5A0;">Ashfaq Sarker Abid</span>  
-</h1>
-<h3 align="center" style="color:#ff00ff;">🚀 Frontend Developer | Web Enthusiast</h3>
+- 🔭 I’m currently working on **Ai text to image**
 
----
+- 🌱 I’m currently learning **Next.js**
 
-## 💫 About Me  
-Hi! I’m **Ashfaq Sarker Abid**, a passionate Frontend Developer from Bangladesh.  
-I love building modern, responsive, and user-friendly web applications.  
-Always curious about new technologies and improving my development skills.  
+- 👨‍💻 All of my projects are available at [https://coruscating-custard-a8c4e0.netlify.app/](https://coruscating-custard-a8c4e0.netlify.app/)
 
----
+- 📫 How to reach me **abidsarker213@gmail.com**
 
-## 🔥 Current Activities  
-- 🌱 I’m exploring **Next.js**  
-- 💻 Working on a **Tourism Website** project  
-- 🛠 Building creative UI with **React & TailwindCSS**  
-- 📚 Learning **JavaScript ES6+ Best Practices**  
-
----
-
-## 💻 Skills  
-
-### **Frontend**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashfaq-sarker-abid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashfaq-sarker-abid/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ashfaq.sarker.abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ashfaq.sarker.abid" height="30" width="40" /></a>
 </p>
 
-### **Backend & Database**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### **Tools & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkerabid21&show_icons=true&locale=en&layout=compact" alt="sarkerabid21" /></p>
 
----
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://github.com/ashfaqsarkerabid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/ashfaq-sarker-abid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashfaqsarkerabid&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaqsarkerabid&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashfaqsarkerabid&theme=neon-dark" alt="GitHub Streak" />
-</p>
-
----
-
-## ⚡ Fun Fact  
-_"Coding is like magic — you write spells (code) and make things appear on the internet!"_
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkerabid21&show_icons=true&locale=en" alt="sarkerabid21" /></p>
