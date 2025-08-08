@@ -1,13 +1,15 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/7JfqXxB/modern-banner.gif" alt="Banner" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
 
 <!-- Name & Title -->
 <h1 align="center">
   <span style="color:#00F5A0;">Ashfaq Sarker Abid</span>  
 </h1>
-<h3 align="center" style="color:#ff00ff;">🚀 Frontend Developer | Web Enthusiast</h3>
+<h3 align="center" style="color:#ff00ff;">🚀  Frontend Developer </h3>
 
 ---
 
@@ -20,7 +22,7 @@ Always curious about new technologies and improving my development skills.
 
 ## 🔥 Current Activities  
 - 🌱 I’m exploring **Next.js**  
-- 💻 Working on a **Tourism Website** project  
+- 💻 Working on a **Research Finding Website** project  
 - 🛠 Building creative UI with **React & TailwindCSS**  
 - 📚 Learning **JavaScript ES6+ Best Practices**  
 
@@ -62,11 +64,13 @@ Always curious about new technologies and improving my development skills.
 
 ## 📊 GitHub Stats  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkerabid21&show_icons=true&locale=en&layout=compact" alt="sarkerabid21" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkerabid21&show_icons=true&locale=en" alt="sarkerabid21" /></p>
+
+
 
 ## ⚡ Fun Fact  
 _"Coding is like magic — you write spells (code) and make things appear on the internet!"_
